@@ -114,7 +114,7 @@ Host: localhost:5555
 ```
 ### CREATE
 ```
-POST /partners/add-partner
+POST /blog/add-blog
 Host: localhost:5555
 Content-Type: application/json
 Content-Length: 278
